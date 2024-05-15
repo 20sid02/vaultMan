@@ -1,0 +1,63 @@
+
+
+/* Add your CSS styles here */
+
+#credentials-card {
+    background-color: #303030;
+}
+
+#credentials-table {
+    background-color: #303030;
+    border-style: hidden !important;
+}
+
+#credentials-table th {
+    background-color: #303030;
+    color: white;
+}
+
+#credentials-table td {
+    background-color: #303030;
+    color: white;
+}
+
+.form-control.masterkey {
+    background-color: #303030;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.reveal-password {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: -1px;
+}
+
+.form-control.masterkey::placeholder{
+    color:rgb(169, 169, 169);
+}
+
+.table th{
+   border-bottom: none;
+}
+
+.table td{
+    border-bottom: none;
+}
+
+.form-control{
+    background-color: #303030;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.form-control::placeholder{
+    color:rgb(169, 169, 169);
+}
