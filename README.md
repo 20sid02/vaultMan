@@ -13,7 +13,7 @@ VaultMan is a secure and user-friendly password manager designed to help you sto
 
 ## Technology Stack
 
-- **Language**: Python (or specify language used)
+- **Language**: PHP Laravel
 - **Encryption**: AES-256 encryption for strong security
 - **Database**: SQLite for local password storage
 - **Version Control**: Git
